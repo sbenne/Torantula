@@ -10,6 +10,7 @@ http://garrettmarconet.blogspot.com/2017/09/tuning-tor-for-performance.html
 
 * Tor
 * Python3
+* Python3 SetupTools (sudo apt-get install python3-setuptools)
 * Linux (MacOS will probably work, too, but I haven't tested it)
 
 ## Installation
